@@ -44,10 +44,8 @@ The plugin shows the workload as follows:
   - When showing the issues that contribute to the workload, only issues visible
     to the current user are shown. Invisible issues are only summarized.
 
-#### ToDo
+#### Example
 
-* Make it possible to display the workload starting with another day than the
-start of a month.
-* Improve performance - requests still take up to 5 seconds.
-* Add legend (again).
-* Use nicer colors for workload indications.
+Proyects and Tasks by Redmine user.
+
+![](https://github.com/manuparra/redmine_workload/blob/master/app/views/work_load/xe.jpg)
