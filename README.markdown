@@ -2,12 +2,7 @@
 
 A complete rewrite of the original workload-plugin from Rafael Calleja. The
 plugin calculates how much work each user would have to do per day in order
-to hit the deadlines for all his issues.
-
-To be able to do this calculation, the issues start date, due date and
-estimated time must be filled in. Issues that have not filled in one of
-these fields will be shown in the overview, but the workload resulting from
-these issues will be ignored.
+to hit the deadlines for all his issues and it show project and task in a full view for the selected users.
 
 #### Installation
 
