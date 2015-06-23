@@ -41,6 +41,6 @@ The plugin shows the workload as follows:
 
 #### Example
 
-Proyects and Tasks by Redmine user.
+Proyects and Tasks by user.
 
 ![](https://github.com/manuparra/redmine_workload/blob/master/app/views/work_load/xe.jpg)
